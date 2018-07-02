@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "dinpromedium";
+    src: url("dinpromedium.eot"); /* IE9 */
+    src: url("dinpromedium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    
+    url("dinpromedium.woff") format("woff"), /* chrome、firefox */
+    url("dinpromedium.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    
+    url("dinpromedium.svg#dinpromedium") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+

@@ -1,0 +1,41 @@
+html {
+    font-size : 100px;
+}
+@media only screen and (min-width: 319px){
+    html {
+        font-size: 85px !important;
+    }
+}
+@media only screen and (min-width: 349px){
+    html {
+        font-size: 90px !important;
+    }
+}
+@media only screen and (min-width: 359px){
+    html {
+        font-size: 96px !important;
+    }
+}
+@media only screen and (min-width: 374px){
+    html {
+        font-size: 100px !important;
+    }
+}
+@media only screen and (min-width: 411px){
+    html {
+        font-size: 110px !important;
+    }
+}
+@media only screen and (min-width: 413px){
+    html {
+        font-size: 110px !important;
+    }
+}
+@media only screen and (min-width: 479px){
+    html {
+        font-size: 125px !important;
+    }
+}
+body {
+    font-size: .14rem;
+}

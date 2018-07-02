@@ -1,0 +1,12 @@
+{
+  "git.ignoreLimitWarning": true,
+  "eslint.options": {
+      "configFile": "./.eslintrc.js",
+      "ignore": "./.eslintignore"
+  },
+  "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "vue"
+  ],
+}
